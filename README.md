@@ -36,3 +36,7 @@ To start using `git clone` and run `npm install`
   * Right panel
     * Word meaning after selecting from search results
 
+---
+Follow our live stream on [Livecoding Memolition channel](https://www.livecoding.tv/memolition/)
+
+Join the conversation at [#MEAN-Dictionary](https://twitter.com/hashtag/MEAN-Dictionary)
