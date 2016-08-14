@@ -39,4 +39,4 @@ To start using `git clone` and run `npm install`
 ---
 Follow our live stream on [Livecoding Memolition channel](https://www.livecoding.tv/memolition/)
 
-Join the conversation at [#MEAN-Dictionary](https://twitter.com/hashtag/MEAN-Dictionary)
+Join the conversation at [#MEANDictionary](https://twitter.com/hashtag/MEAN-Dictionary)
