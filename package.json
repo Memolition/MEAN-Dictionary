@@ -1,0 +1,28 @@
+{
+    "name": "dictionary",
+    "version": "1.0.0",
+    "description": "Simple MEAN Stack app intended to be a **multilanguage** dictionary and thesaurus",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Memolition/MEAN-Dictionary.git"
+    },
+    "author": "Memolition",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Memolition/MEAN-Dictionary/issues"
+    },
+    "homepage": "https://github.com/Memolition/MEAN-Dictionary#readme",
+    "dependencies": {
+        "angular": "^1.5.8",
+        "angular-route": "^1.5.8",
+        "body-parser": "^1.15.2",
+        "express": "^4.14.0",
+        "path": "^0.12.7",
+        "mongoose": "^4.5.0"
+    }
+}
